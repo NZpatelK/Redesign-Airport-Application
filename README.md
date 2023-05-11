@@ -16,6 +16,8 @@ I firmly believe that technology should enhance and simplify travel experiences.
 
 Disclaimer: This design is not affiliated with Auckland Airport. It is solely my personal project where I have borrowed the name 'Auckland Airport' to showcase my skills, knowledge, and creativity in redesigning and improving airport features. My aim is to demonstrate innovative technology and advanced features that can greatly enhance the lives of passengers and improve airport operations.
 
+https://www.figma.com/file/LqmP4gOi66uz0UOxNz4xcA/Untitled?type=design&node-id=0%3A1&t=WNqSk5VhoA4zwnfC-1
+
 #### Click on the video icon to view the demonstration video of my application. 👀
 [<img src='https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/512/external-video-news-xnimrodx-lineal-gradient-xnimrodx.png' width='100'>](https://www.linkedin.com/posts/karan-h-patel_aucklandairport-airportinnovation-passengerexperience-activity-7059747287337472000-nHXc?utm_source=share&utm_medium=member_desktop)
 
